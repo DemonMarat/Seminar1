@@ -1,3 +1,5 @@
+# Seminar 1
+
 # print('Hello world!', end=' ')
 
 # name = 'Alex'
@@ -46,5 +48,6 @@
 #     if a % 2 == 0:
 #         print(f'Число {a} четное отрицательное!')
 #     else:
-#         print(f'Число {a} нечетное отрицательное!')
-#
+#         print(f'Число {a} нечетное отрицатель
+
+# Seminar 2
